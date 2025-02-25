@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity, Web Development Frameworks**
 
-- ⚡ Fun fact **I love Gaming, Watching Movies and Series**
+- ⚡ Fun fact **I love Codng, Gaming, Watching Movies and Series**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
